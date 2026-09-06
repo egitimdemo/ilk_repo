@@ -1,0 +1,18 @@
+# ortam
+env/
+.env
+
+#python
+__pycache__\
+*.pyc
+
+#jupyter
+.ipynb_checckpoints/
+
+#veri dosyaları
+*.csv
+*.xlsx
+data/
+
+#mac sistemi
+.DS_Store
